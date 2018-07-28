@@ -2,7 +2,7 @@
 simple api to calculate data transfer time
 
 ```
-$ curl timetodl.boniface.tech\t# this help text
+$ curl timetodl.boniface.tech    # this help text
 
 /<speed>/<size> # return time to transfer file of <size> at <speed>
 /10mbps/100mb => 10 seconds
